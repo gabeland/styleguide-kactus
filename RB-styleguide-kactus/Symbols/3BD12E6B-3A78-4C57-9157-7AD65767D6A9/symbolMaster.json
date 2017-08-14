@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "3BD12E6B-3A78-4C57-9157-7AD65767D6A9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,6 +56,8 @@
   ],
   "name": "Btn-rp-toogle--hover",
   "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "7C0C9C33-C4AD-4FBC-9174-1A7246B5C5C3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,6 +56,8 @@
   ],
   "name": "Btn-rn--search",
   "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

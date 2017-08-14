@@ -34,6 +34,7 @@
   ],
   "name": "line-short",
   "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 45,
   "shouldBreakMaskChain": false,

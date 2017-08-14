@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 33.12911999999998,
     "width": 50.62224000000001,
-    "x": 3.552713678800501e-15,
+    "x": 3.552713678800503e-15,
     "y": 0
   },
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "path": {
     "_class": "path",
     "isClosed": true,
+    "pointRadiusBehaviour": 0,
     "points": [
       {
         "_class": "curvePoint",
@@ -293,6 +294,7 @@
       }
     ]
   },
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false

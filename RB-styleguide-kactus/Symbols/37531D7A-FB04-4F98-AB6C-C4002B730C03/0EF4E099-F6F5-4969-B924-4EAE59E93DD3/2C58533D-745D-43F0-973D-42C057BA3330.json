@@ -30,6 +30,9 @@
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Navbar-button",
   "nameIsFixed": false,
+  "overrides": {
+  },
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 7,
   "do_objectID": "73F46CBD-8EAE-4ED5-8193-702C79F47EF5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,6 +56,8 @@
   ],
   "name": "Btn-lg-3col",
   "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

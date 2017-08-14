@@ -30,6 +30,9 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Btn-lg-1col--negative-ghost",
   "nameIsFixed": false,
+  "overrides": {
+  },
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

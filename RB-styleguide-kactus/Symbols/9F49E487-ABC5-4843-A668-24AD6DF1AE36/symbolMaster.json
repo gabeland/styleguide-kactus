@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "9F49E487-ABC5-4843-A668-24AD6DF1AE36",
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,6 +60,8 @@
   ],
   "name": "Molecule-info",
   "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

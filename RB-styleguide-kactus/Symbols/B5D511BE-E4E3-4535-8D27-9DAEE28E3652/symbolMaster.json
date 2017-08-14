@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "B5D511BE-E4E3-4535-8D27-9DAEE28E3652",
   "exportOptions": {
     "_class": "exportOptions",
@@ -70,6 +71,8 @@
   },
   "name": "Form-input--danger",
   "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

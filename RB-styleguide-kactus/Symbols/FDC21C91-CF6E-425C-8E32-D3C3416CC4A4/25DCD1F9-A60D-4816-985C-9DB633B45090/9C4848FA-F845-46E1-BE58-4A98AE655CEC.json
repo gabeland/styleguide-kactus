@@ -30,6 +30,9 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Table-full",
   "nameIsFixed": true,
+  "overrides": {
+  },
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

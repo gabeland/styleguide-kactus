@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "33DF836D-D43A-4791-9253-F67129DC280E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -70,6 +71,8 @@
   },
   "name": "Form-radio--selected",
   "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

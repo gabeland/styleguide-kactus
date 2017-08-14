@@ -36,6 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "fa-close",
   "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -56,7 +57,8 @@
         "NSParagraphStyle": {
           "_archive": "YnBsaXN0MDDUAQIDBAUGISJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBESExFaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFYkY2xhc3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0gACAAiNAOAAAAAAAAIAEEAHSFQwWF1pOUy5vYmplY3RzoIAD0hkaGxxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohsdWE5TT2JqZWN00hkaHyBfEBBOU1BhcmFncmFwaFN0eWxloh8dXxAPTlNLZXllZEFyY2hpdmVy0SMkVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBQAFsAZwB5AIAAogC0ALYAuADBAMMAxQDKANUA1gDYAN0A6ADxAPkA/AEFAQoBHQEgATIBNQE6AAAAAAAAAgEAAAAAAAAAJQAAAAAAAAAAAAAAAAAAATw="
         }
-      }
+      },
+      "verticalAlignment": 0
     }
   },
   "textBehaviour": 0,

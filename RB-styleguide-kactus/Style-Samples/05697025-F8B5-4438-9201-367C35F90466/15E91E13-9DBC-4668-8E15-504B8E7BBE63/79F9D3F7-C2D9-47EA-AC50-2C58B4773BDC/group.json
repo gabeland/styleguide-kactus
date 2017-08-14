@@ -36,6 +36,7 @@
   ],
   "name": "Btn-lg-1col--secondary",
   "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

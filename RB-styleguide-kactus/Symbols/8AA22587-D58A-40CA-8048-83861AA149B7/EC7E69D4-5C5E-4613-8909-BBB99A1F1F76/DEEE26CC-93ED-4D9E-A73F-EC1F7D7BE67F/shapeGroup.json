@@ -17,7 +17,7 @@
     "height": 27.02500000000009,
     "width": 3.089000000000055,
     "x": 13.17157287525479,
-    "y": 8.473222123939195e-13
+    "y": 8.473222123939198e-13
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,6 +34,7 @@
   ],
   "name": "rectangle-43",
   "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

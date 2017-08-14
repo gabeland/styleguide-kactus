@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "A3AA7F72-F758-4A59-8418-46C193FAF182",
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,6 +60,8 @@
   ],
   "name": "icon-precificacao",
   "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

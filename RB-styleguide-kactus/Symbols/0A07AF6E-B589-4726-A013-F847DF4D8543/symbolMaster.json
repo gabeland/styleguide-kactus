@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "0A07AF6E-B589-4726-A013-F847DF4D8543",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +50,8 @@
   ],
   "name": "Table-tooltip",
   "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

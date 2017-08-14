@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "changeIdentifier": 0,
   "do_objectID": "42F65AEC-9B45-4789-85CC-BE2E7368DDA9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +50,8 @@
   ],
   "name": "Documents-breadcrumb-search",
   "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

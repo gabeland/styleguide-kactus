@@ -36,6 +36,7 @@
   ],
   "name": "size04-120px",
   "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
