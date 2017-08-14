@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "442D4B9D-B5BF-4EB5-B613-B5CBE51A2715",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 287,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "ADB51BFF-9B70-4D84-BA10-94DBFB836A80"
+    },
+    {
+      "class": "text",
+      "id": "F18D5527-9B33-4351-BC51-1C2BC4B0D235"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "461D1A66-298E-4F30-9643-22781C9745EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50F45F71-92C4-4049-B64C-6E24B56389AC"
+    }
+  ],
+  "name": "Progress-bar--full",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

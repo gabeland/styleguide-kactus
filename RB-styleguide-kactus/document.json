@@ -1,0 +1,289 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3333333333333333,
+        "green": 0.2,
+        "red": 0.2
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5333333333333334,
+        "green": 0.7333333333333333,
+        "red": 0.2666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.6666666666666665,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9529411764705882,
+        "green": 0.9529411764705882,
+        "red": 0.9529411764705882
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9333333333333333,
+        "green": 0.9333333333333333,
+        "red": 0.9333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8470588235294118,
+        "green": 0.8470588235294118,
+        "red": 0.8470588235294118
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6666666666666666,
+        "green": 0.6666666666666666,
+        "red": 0.6666666666666666
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2666666666666667,
+        "green": 0.2666666666666667,
+        "red": 0.2666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2666666666666667,
+        "green": 0.7333333333333333,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.5333333333333333,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.3333333333333333,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9803921568627451,
+        "green": 0.9725490196078432,
+        "red": 0.9372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4823529411764707,
+        "green": 0.8980392156862745,
+        "red": 0.8588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1333333333333333,
+        "green": 0.7294117647058823,
+        "red": 0.9921568627450981
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1568627450980392,
+        "green": 0.4627450980392158,
+        "red": 0.9568627450980391
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.2666666666666667,
+        "red": 0.1333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2666666666666667,
+        "green": 0.6,
+        "red": 0.7333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7333333333333333,
+        "green": 0.4666666666666662,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2666666666666666,
+        "green": 0.6666666666666666,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.06666666666666662,
+        "green": 0.4666666666666667,
+        "red": 0.8666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.06666666666666662,
+        "green": 0.2666666666666666,
+        "red": 0.8666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9333333333333333,
+        "green": 0.8,
+        "red": 0.6
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2,
+        "green": 0.4,
+        "red": 0.4666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3764705882352941,
+        "green": 0.3764705882352941,
+        "red": 0.3764705882352941
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 0.017099808673469389}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8110617437586507,
+              "green": 0.9335671768707483,
+              "red": 0.6477211662758537
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.5333333333333334,
+              "green": 0.7333333333333333,
+              "red": 0.2666666666666667
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 0.9863268428422769}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{1.1364357673079839, 0.5}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0,
+              "green": 0.5333333333333333,
+              "red": 1
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0,
+              "green": 0.4447663301712087,
+              "red": 1
+            },
+            "position": 0.5571649841893769
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.2666666666666667,
+              "green": 0.7333333333333333,
+              "red": 0
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0, 0.5}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "2E729240-934C-49B1-A950-E9EA8D13146E",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "io.protoship.sketch.teleport": {
+      "protoship_uipad_document_tag": "NzA4OTI2OTE0OTAxMTcxNTEzMDk3MzIw"
+    }
+  }
+}

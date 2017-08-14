@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUFER0tPV1hZWltfY2VVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEB9Db21wcm92YW50ZSBlbnZpYWRvIGNvbSBzdWNlc3Nv0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuAD4AXV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMSAxIDEAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1wo2Nzg5Ojs8PT4kPz9AWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gA6AAIAMI0A4AAAAAAAAEALSEgpCQ6CADdIsLUVGV05TQXJyYXmiRTHSLC1ISV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0hKMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkxNTl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpQU1aiUVKAEYASolRVgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABfEBFPcGVuU2Fucy1TZW1pYm9sZNIsLVxdXxATTlNNdXRhYmxlRGljdGlvbmFyeaNcXjFcTlNEaWN0aW9uYXJ50iwtYGFfEBBOU0ZvbnREZXNjcmlwdG9yomIxXxAQTlNGb250RGVzY3JpcHRvctIsLV5kol4x0iwtZmdfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiaDFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRa2xUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMApQCsALQAvwDDAMUAxwDJAM0AzwDRANMA1QDdAPABEgEbASEBLgFDAUoBTAFOAVABVQFaAVwBXgFjAW4BdwGEAYcBlAGdAaIBqgGtAbwBxwHTAfUCBwIZAiUCJwIpAisCNAI2AjsCPAI+AkMCSwJOAlMCbQJxAoQCiQKmAqgCqgKxArQCtgK4ArsCvQK/AsEC1wLtAvYDCgMPAyUDKQM2AzsDTgNRA2QDaQNsA3EDhgOJA54DsAOzA7gAAAAAAAACAQAAAAAAAABtAAAAAAAAAAAAAAAAAAADug=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1F1B1E98-E0D9-4766-9D1F-B6579EA355D8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 177,
+    "x": 55.03846153846098,
+    "y": 97
+  },
+  "glyphBounds": "{{0, 0}, {238, 24}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Comprovante enviado",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "0BBFE913-1BD7-49F7-A662-728A10D34A69"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

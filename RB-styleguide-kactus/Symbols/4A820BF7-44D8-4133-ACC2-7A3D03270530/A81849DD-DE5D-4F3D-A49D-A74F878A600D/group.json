@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "A81849DD-DE5D-4F3D-A49D-A74F878A600D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 111,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DED2D939-2412-4BCB-997F-143D8FD36A39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6FE532BC-C311-42C1-ABC3-7453DF5DD3AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3410D3B9-DE26-4BAD-AA54-2C7E8B7E0C54"
+    },
+    {
+      "class": "text",
+      "id": "81708A92-43F3-4F74-88AB-65C3F7F0E8F9"
+    },
+    {
+      "class": "text",
+      "id": "0B2A0752-6A48-4762-AD98-C2FB7CDDBFD0"
+    },
+    {
+      "class": "text",
+      "id": "95DDDC65-38AC-45BF-B999-30609C7198DC"
+    }
+  ],
+  "name": "Action-buttons-dropdown",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

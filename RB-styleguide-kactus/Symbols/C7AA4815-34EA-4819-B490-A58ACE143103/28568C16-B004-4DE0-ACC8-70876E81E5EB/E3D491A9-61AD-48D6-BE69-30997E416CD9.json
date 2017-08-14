@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUFER0tPV1hZWltfY2VVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANvEDQAQwBsAGkAcQB1AGUAIABhAHEAdQBpACAAcABhAHIAYQAgAGEAbgBlAHgAYQByACAAbwAgAAoAYwBvAG0AcAByAG8AdgBhAG4AdABlACAAZABlACAAcgBlAHMAaQBkAOoAbgBjAGkAYdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC42NjY2NjY2NjY3IDAuNjY2NjY2NjY2NyAwLjY2NjY2NjY2NjcAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1wo2Nzg5Ojs8PT4kPz9AWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gA6AAIAMI0A4AAAAAAAAEALSEgpCQ6CADdIsLUVGV05TQXJyYXmiRTHSLC1ISV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0hKMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkxNTl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpQU1aiUVKAEYASolRVgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABfEBFPcGVuU2Fucy1TZW1pYm9sZNIsLVxdXxATTlNNdXRhYmxlRGljdGlvbmFyeaNcXjFcTlNEaWN0aW9uYXJ50iwtYGFfEBBOU0ZvbnREZXNjcmlwdG9yomIxXxAQTlNGb250RGVzY3JpcHRvctIsLV5kol4x0iwtZmdfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiaDFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRa2xUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMA7gD1AP0BCAEMAQ4BEAESARYBGAEaARwBHgEmATkBWwFkAWoBdwGMAbYBuAG6AbwBwQHGAcgBygHPAdoB4wHwAfMCAAIJAg4CFgIZAigCMwI/AmECcwKFApECkwKVApcCoAKiAqcCqAKqAq8CtwK6Ar8C2QLdAvAC9QMSAxQDFgMdAyADIgMkAycDKQMrAy0DQwNZA2IDdgN7A5EDlQOiA6cDugO9A9AD1QPYA90D8gP1BAoEHAQfBCQAAAAAAAACAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAEJg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E3D491A9-61AD-48D6-BE69-30997E416CD9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 203.0769230769232,
+    "x": 42,
+    "y": 97
+  },
+  "glyphBounds": "{{0, 0}, {182, 48}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Clique aqui para ane",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "26BB5172-1D69-471F-81C0-046881DC3142"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

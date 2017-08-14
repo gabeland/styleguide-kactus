@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "2F5C34A6-CE3C-41C1-9E16-75B6EDFE87BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168,
+    "width": 141,
+    "x": 400,
+    "y": 112
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3D93DDA7-5343-4E56-BF54-AB02B49C24D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8198D887-3451-4C59-BC28-ED08FA41A6C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D659256D-1230-4B97-B035-0C38DC8573AE"
+    }
+  ],
+  "name": "Form-toogle",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

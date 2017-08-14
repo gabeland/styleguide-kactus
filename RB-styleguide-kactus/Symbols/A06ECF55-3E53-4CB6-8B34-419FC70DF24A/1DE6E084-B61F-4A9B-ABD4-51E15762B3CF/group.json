@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "1DE6E084-B61F-4A9B-ABD4-51E15762B3CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 49,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C81E6808-5436-4405-9167-A99AEC3A4086"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBA4ECB6-E66B-4872-9333-4C1D7519E400"
+    },
+    {
+      "class": "text",
+      "id": "DEC0440D-1379-4021-9406-9701FB56B27A"
+    },
+    {
+      "class": "text",
+      "id": "96C044E6-16EA-4876-8FF2-F594B3313DB3"
+    }
+  ],
+  "name": "Molecule-clipboard-area--hover",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

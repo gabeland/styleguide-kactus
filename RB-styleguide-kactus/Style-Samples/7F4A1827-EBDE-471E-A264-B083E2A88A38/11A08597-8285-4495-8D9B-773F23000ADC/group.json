@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "11A08597-8285-4495-8D9B-773F23000ADC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 369,
+    "width": 346,
+    "x": 608,
+    "y": 1400
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BC35653F-A2E5-41C8-B258-7EBFC0C3180C"
+    },
+    {
+      "class": "group",
+      "id": "DA732ABE-5567-4221-B4F4-3E8BF7D35E7D"
+    },
+    {
+      "class": "text",
+      "id": "0770BECC-4B20-4BC4-A1AD-B0ACCD8A65D9"
+    },
+    {
+      "class": "text",
+      "id": "124AB489-A548-44C6-8E84-B343E5723B07"
+    }
+  ],
+  "name": "Molecules-tooltip",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "EF1B59D2-3869-4E1B-A86A-5954441D3B92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 328,
+    "width": 347,
+    "x": 106,
+    "y": 1400
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C2E3D64D-31D6-442C-BFED-6D944B3FD0C3"
+    },
+    {
+      "class": "group",
+      "id": "DBACB9DF-6ACA-4A20-9826-9CD0FD4FCC4A"
+    },
+    {
+      "class": "group",
+      "id": "C4C3D988-6B3F-4F19-BB06-8DFD48F12795"
+    },
+    {
+      "class": "text",
+      "id": "6F59A6B1-94C7-4511-8EAC-CE81173056FB"
+    },
+    {
+      "class": "text",
+      "id": "9F99202A-B99B-4139-B119-2CFFFC3053DC"
+    }
+  ],
+  "name": "Molecules-labels",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

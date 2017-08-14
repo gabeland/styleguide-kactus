@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "03E7CBCC-8BC7-43C0-BD8A-F248A3E463BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 348,
+    "x": 107,
+    "y": 192
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "226990EA-CFE2-4396-849F-2D538B9AB591"
+    },
+    {
+      "class": "group",
+      "id": "01EB662A-95BE-471A-A8B8-DE9760E29F7B"
+    },
+    {
+      "class": "text",
+      "id": "E0D6F796-29E4-4A44-B4E4-86AD3CFCE743"
+    },
+    {
+      "class": "text",
+      "id": "69D3248B-0885-4B7D-A4DD-97B34280CD7B"
+    }
+  ],
+  "name": "Molecules-others",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "746B74B8-EC30-48BC-A362-AC03A33BBCE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 149,
+    "x": 685,
+    "y": 12.75748741054849
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "836CC3C1-9FD4-4761-A0FA-A62AB6AF5DC0"
+    },
+    {
+      "class": "text",
+      "id": "E37B0B3A-D501-431E-9691-3E08593E6C98"
+    },
+    {
+      "class": "text",
+      "id": "967ECD8A-2E31-46C4-AE03-D61C8D7578C3"
+    }
+  ],
+  "name": "filtro01",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

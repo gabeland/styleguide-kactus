@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "504AEF78-B134-4E13-B619-4CA632D4A579",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 298,
+    "width": 288,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "036FFC9A-73EB-4190-A111-0A2A29CA0F0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDE60E67-F42F-470C-87BE-92C7EF73CF83"
+    },
+    {
+      "class": "text",
+      "id": "DDF23514-6E28-4AFF-97D6-90488AAFE0A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CB66A72-DA5F-4D81-B6B1-DCB0FE8C1DE6"
+    },
+    {
+      "class": "text",
+      "id": "4DC1D52C-25FB-444A-92A7-D630C673DE7F"
+    }
+  ],
+  "name": "Cards--pressed",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

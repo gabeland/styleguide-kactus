@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "226990EA-CFE2-4396-849F-2D538B9AB591",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 181,
+    "x": 103,
+    "y": 96
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6209D127-03C0-4288-B702-CDE3DFC01B95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F051A8A-3712-4C12-BD2B-D9A63A9E2220"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "074909BB-9879-4AB8-B672-130781B0D130"
+    }
+  ],
+  "name": "Molecule-info",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

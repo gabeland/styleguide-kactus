@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "284889F7-B5CE-4523-8148-B238F326CE63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2328,
+    "width": 1188,
+    "x": 6,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4D476809-70DA-40BD-A3DE-DAF7A65E4080"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31479A1C-DD6E-4AAC-9642-F5B6A5131CD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD115D43-A284-4152-AF13-D482096F791E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41075F35-0DFA-478E-BFCC-F0FEC38521E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "728DE84F-B087-4F02-ADB3-E4711F9D4174"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "55C5F81C-202F-4B10-83CF-23C3E972F75A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B4F254CA-D920-4C44-8DB6-9AD6A857A189"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C1AFE8E-3799-46B4-A6E6-217D841FAFB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1BC81271-CEAE-48F1-B661-4492D35D320B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CABA2B18-1246-4267-9057-D3E3E78A8E12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D5A03BE-2246-47E6-B388-6B471EA49B23"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45DA7D3C-3B90-45A4-8B26-B78886EDF15B"
+    }
+  ],
+  "name": "grid1200",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

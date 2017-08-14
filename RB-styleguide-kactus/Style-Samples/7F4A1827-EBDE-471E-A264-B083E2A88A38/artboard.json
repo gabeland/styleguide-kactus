@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7F4A1827-EBDE-471E-A264-B083E2A88A38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3040,
+    "width": 1200,
+    "x": 16602,
+    "y": -1350
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D1FCAF69-E754-4D7E-95AA-6FD965AC0E24"
+    },
+    {
+      "class": "group",
+      "id": "54DFAF86-E8D0-499E-B037-B54DF84D9BD7"
+    },
+    {
+      "class": "group",
+      "id": "FC56DD4A-7DFB-419E-8127-BECC9B00CEFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F47E666F-9B14-4431-9F01-7ED279E460B5"
+    },
+    {
+      "class": "group",
+      "id": "D3DF3BE6-C841-410C-89B1-6E49193D1D0D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CABAE47-83E5-4CAD-831C-B28F35D7BA1D"
+    },
+    {
+      "class": "group",
+      "id": "11A08597-8285-4495-8D9B-773F23000ADC"
+    },
+    {
+      "class": "group",
+      "id": "EF1B59D2-3869-4E1B-A86A-5954441D3B92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAD27894-F0E8-481C-8E1A-231FBBBB14AD"
+    },
+    {
+      "class": "group",
+      "id": "EC13DFBA-83D9-4ECA-8C94-3F99B5A1968F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D204BF31-BBDB-4DA0-8384-C0BF4B0D8254"
+    },
+    {
+      "class": "group",
+      "id": "2AA578C1-0694-4AB6-84C0-049EA5F5C1AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9603622E-ED5A-428F-BE96-3D42A883D8F5"
+    },
+    {
+      "class": "group",
+      "id": "03E7CBCC-8BC7-43C0-BD8A-F248A3E463BA"
+    },
+    {
+      "class": "text",
+      "id": "01600C01-DECB-4975-9356-C1E8A595E0B7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 88,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 12,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "SG_molecules     ",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
